@@ -1,4 +1,4 @@
 package org.example.scpcontainment.entity;
 
-public class test1 {
+public class test {
 }
